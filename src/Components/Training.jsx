@@ -28,7 +28,7 @@ const Training = () => {
                         <span className='mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-700'>Efficient Coding</span>
                         <span className='mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-700'>Competitive Programming</span>
                     </div>
-                    <button><a href="/cpc.pdf" download="CompetitiveProgramming.pdf" className='flex gap-2 items-center align-middle  rounded bg-neutral-700 px-2 py-1 text-sm font-medium text-purple-200'>View Credentials <FaArrowUpRightFromSquare className=' inline-block' /></a></button>
+                    <button><a href="/myPortfolio/cpc.pdf" download="CompetitiveProgramming.pdf" className='flex gap-2 items-center align-middle  rounded bg-neutral-700 px-2 py-1 text-sm font-medium text-purple-200'>View Credentials <FaArrowUpRightFromSquare className=' inline-block' /></a></button>
                 </motion.div>
             </div>
             <div className='mb-10 flex flex-wrap lg:justify-center p-5'>
@@ -67,7 +67,7 @@ const Training = () => {
                         <span className='mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-700'>Data Science Fundamentals</span>
                         <span className='mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-700'>Image Processing</span>
                     </div>
-                    <button><a href="/MLPm.pdf" download="PythonLib.pdf" className='flex gap-2 items-center align-middle  rounded bg-neutral-700 px-2 py-1 text-sm font-medium text-purple-200'>View Credentials <FaArrowUpRightFromSquare className=' inline-block' /></a></button>
+                    <button><a href="/myPortfolio/MLPm.pdf" download="PythonLib.pdf" className='flex gap-2 items-center align-middle  rounded bg-neutral-700 px-2 py-1 text-sm font-medium text-purple-200'>View Credentials <FaArrowUpRightFromSquare className=' inline-block' /></a></button>
                 </motion.div>
             </div>
         </div>
